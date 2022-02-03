@@ -42,14 +42,14 @@ DATASET USED NOT INCLUDED
 - The graph below shows the data imbalance between loans that were paid back, and loans that were defaulted.
 - We can see that there is a severe imbalance.
 - In the future tuning we may want to fix this.
-![image](https://user-images.githubusercontent.com/72280649/152285732-e6684919-bbf6-4431-8a54-f95f64566383.png)
+- ![image](https://user-images.githubusercontent.com/72280649/152285732-e6684919-bbf6-4431-8a54-f95f64566383.png)
 
 - The graph to the right is a density plot of the loan amounts.
 - We can see that most of the loans lie around the $20,000 mark.
 - This is important because it shows what the risk of getting a prediction wrong is.
-![image](https://user-images.githubusercontent.com/72280649/152285776-e5c1e6c7-5ec7-4bb8-bc4b-ded23eebe4e0.png)
+- ![image](https://user-images.githubusercontent.com/72280649/152286049-38290dda-b8ce-4db2-afb4-62f46c6921bd.png)
 
 - This graph shows the amount of loans that are for debt consolidation versus the loans that are taken for home improvement.
 - This tells us that there are many more people who are getting a loan for debt, rather than for home improvement.
-![image](https://user-images.githubusercontent.com/72280649/152285801-fb67a267-b5fd-419e-bce4-5135fcd1a371.png)
+- ![image](https://user-images.githubusercontent.com/72280649/152285801-fb67a267-b5fd-419e-bce4-5135fcd1a371.png)
 
