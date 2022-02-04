@@ -437,7 +437,7 @@ plt.show()
 
 
     
-![png](Assets/output_8_0.png)
+![png](assets/output_8_0.png)
     
 
 
@@ -449,7 +449,7 @@ plt.show()
 
 
     
-![png](Assets/output_9_0.png)
+![png](assets/output_9_0.png)
     
 
 
@@ -462,7 +462,7 @@ df['REASON'].value_counts()
 
 
     
-![png](Assets/output_10_0.png)
+![png](assets/output_10_0.png)
     
 
 
@@ -484,7 +484,7 @@ plt.show()
 
 
     
-![png](Assets/output_11_0.png)
+![png](assets/output_11_0.png)
     
 
 
@@ -1102,7 +1102,7 @@ metrics_score(y_train, dependent_performance_dt)
 
 
     
-![png](Assets/output_20_1.png)
+![png](assets/output_20_1.png)
     
 
 
@@ -1128,7 +1128,7 @@ metrics_score(y_test,dependent_test_performance_dt)
 
 
     
-![png](Assets/output_22_1.png)
+![png](assets/output_22_1.png)
     
 
 
@@ -1151,7 +1151,7 @@ plt.show()
 
 
     
-![png](Assets/output_24_1.png)
+![png](assets/output_24_1.png)
     
 
 
@@ -1201,7 +1201,7 @@ metrics_score(y_train, dependent_performance_dt)
 
 
     
-![png](Assets/output_27_1.png)
+![png](assets/output_27_1.png)
     
 
 
@@ -1226,7 +1226,7 @@ metrics_score(y_test, dependent_test_performance_dt)
 
 
     
-![png](Assets/output_29_1.png)
+![png](assets/output_29_1.png)
     
 
 
@@ -1248,7 +1248,7 @@ plt.show()
 
 
     
-![png](Assets/output_31_1.png)
+![png](assets/output_31_1.png)
     
 
 
@@ -1264,7 +1264,7 @@ plt.show()
 
 
     
-![png](Assets/output_32_0.png)
+![png](assets/output_32_0.png)
     
 
 
@@ -1302,7 +1302,7 @@ metrics_score(y_train, y_predict_training_forest)
 
 
     
-![png](Assets/output_35_1.png)
+![png](assets/output_35_1.png)
     
 
 
@@ -1328,7 +1328,7 @@ metrics_score(y_test, y_predict_test_forest)
 
 
     
-![png](Assets/output_37_1.png)
+![png](assets/output_37_1.png)
     
 
 
@@ -1387,7 +1387,7 @@ metrics_score(y_train, y_predict_train_forest_tuned)
 
 
     
-![png](Assets/output_41_1.png)
+![png](assets/output_41_1.png)
     
 
 
@@ -1410,7 +1410,7 @@ metrics_score(y_test, y_predict_test_forest_tuned)
 
 
     
-![png](Assets/output_42_1.png)
+![png](assets/output_42_1.png)
     
 
 
@@ -1490,7 +1490,7 @@ shap.plots.bar(shap_vals[:, :, 0])
 
 
     
-![png](Assets/output_50_0.png)
+![png](assets/output_50_0.png)
     
 
 
@@ -1501,7 +1501,7 @@ shap.plots.heatmap(shap_vals[:, :, 0])
 
 
     
-![png](Assets/output_51_0.png)
+![png](assets/output_51_0.png)
     
 
 
@@ -1512,7 +1512,7 @@ shap.summary_plot(shap_vals[:, :, 0], x_train)
 
 
     
-![png](Assets/output_52_0.png)
+![png](assets/output_52_0.png)
     
 
 
