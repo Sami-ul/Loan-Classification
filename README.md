@@ -1,5 +1,7 @@
 # Loan-Classification
-DATASET USED NOT INCLUDED
+#### DATASET USED NOT INCLUDED
+
+# Project overview
 - Predict if a customer will or will not default
 - Important features
   - Debt to income ratio: The reason this may be an important feature in deciding whether a user will default or not because the more debt and less income a person has, the less chance that they will be able to pay back a loan
